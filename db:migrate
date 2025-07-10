@@ -1,0 +1,12 @@
+=> 
+[32m#<User:0x000071e596380048[0m
+ id: [34m[1m1[0m,
+ name: [31m[1m"[0m[31mあ[0m[31m[1m"[0m,
+ email: [31m[1m"[0m[31mamu@sakai.pro[0m[31m[1m"[0m,
+ created_at: Thu, 10 Jul 2025 00:17:41.990056000 UTC +00:00,
+ updated_at: Thu, 10 Jul 2025 00:17:41.990056000 UTC +00:00,
+ password_digest: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+ remember_digest: [36m[1mnil[0m,
+ activation_digest: [31m[1m"[0m[31m$2a$12$Lh0ZagUFyZ5tkfpjod1L9Od2gmwVvRXRrR9vE18sZj.tTBu15i2Pa[0m[31m[1m"[0m,
+ activated: [36m[1mfalse[0m,
+ activated_at: [36m[1mnil[0m[32m>[0m
